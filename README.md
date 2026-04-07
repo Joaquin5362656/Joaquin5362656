@@ -76,6 +76,19 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ### 🎓 Proyectos universitarios (UBA)
 > Trabajos prácticos de la carrera de Ingeniería Informática.
 
+### 🧪 [TP2 — Análisis de Logs de Servidor Web](https://github.com/Joaquin5362656/tp2)
+> Herramienta en Go para analizar archivos de log de un servidor web: detecta posibles ataques DoS, permite consultar visitantes (IPs) por rango y listar los recursos más visitados.
+
+**Stack:** Go (1.22.1) · Shell · Testify (tests)
+
+- Lectura de comandos por stdin para cargar logs y ejecutar consultas
+- Detección de DoS: 5+ conexiones en < 2 segundos por IP
+- Consulta de visitantes por rango de IPs (orden ascendente)
+- Cálculo de top‑N recursos más visitados
+- Implementación y uso de TDAs: lista enlazada, hash, ABB y heap/cola de prioridad
+- Tests unitarios (TDAs) y pruebas de integración (“pruebas analógicas”)
+
+
 ### 📐 [TP de Modelación / Métodos Numéricos](https://github.com/Joaquin5362656/tp-Numerico)
 > Implementaciones en Python de técnicas de métodos numéricos para aproximar soluciones y analizar error/convergencia.
 
