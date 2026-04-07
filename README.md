@@ -76,7 +76,16 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ### 🎓 Proyectos universitarios (UBA)
 > Trabajos prácticos de la carrera de Ingeniería Informática.
 
-Incluyen trabajos orientados a **modelación y métodos numéricos**, aplicando técnicas para **aproximar soluciones** a problemas matemáticos: resolución de **ecuaciones** (búsqueda de raíces), **sistemas lineales**, **interpolación/ajuste**, **derivación e integración numérica**, y **análisis de error y convergencia** (por ejemplo, con Python y librerías científicas).
+### 📐 [TP de Modelación / Métodos Numéricos](https://github.com/Joaquin5362656/tp-Numerico)
+> Implementaciones en Python de técnicas de métodos numéricos para aproximar soluciones y analizar error/convergencia.
+
+**Stack:** Python · NumPy · Matplotlib
+
+- Aproximación de soluciones mediante métodos iterativos
+- Resolución de ecuaciones (búsqueda de raíces) y criterios de convergencia
+- Resolución de sistemas de ecuaciones lineales
+- Interpolación y/o ajuste de curvas a partir de datos
+- Derivación e integración numérica + análisis de error y estabilidad
 
 ---
 
