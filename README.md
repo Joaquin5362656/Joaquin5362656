@@ -74,7 +74,9 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ---
 
 ### 🎓 Proyectos universitarios (UBA)
-> Trabajos prácticos de la carrera de Ingeniería Informática — próximamente documentados.
+> Trabajos prácticos de la carrera de Ingeniería Informática.
+
+Incluyen trabajos orientados a **modelación y métodos numéricos**, aplicando técnicas para **aproximar soluciones** a problemas matemáticos: resolución de **ecuaciones** (búsqueda de raíces), **sistemas lineales**, **interpolación/ajuste**, **derivación e integración numérica**, y **análisis de error y convergencia** (por ejemplo, con Python y librerías científicas).
 
 ---
 
