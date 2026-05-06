@@ -66,10 +66,16 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 
 ---
 
-### ⚙️ [Proyecto Java + Spring Boot] *(próximamente)*
-> API REST en Java con Spring Boot — en desarrollo activo 🚧
+### ⚙️ [SportPulseMS](https://github.com/MerelesLautaro/Equipo07-SportPulseMS)
+> Sistema backend basado en microservicios para la gestión de ligas, equipos, partidos y estadísticas deportivas, con un gateway centralizado y agregación de datos en tiempo real.
 
-**Stack:** Java · Spring Boot · JUnit · Docker
+**Stack:** Java · Spring Boot · Docker · JWT · PostgreSQL · Swagger
+
+- Gateway centralizado con routing y circuit breaker
+- Autenticación y autorización con JWT (`ms-auth`)
+- Microservicios independientes: ligas, equipos, partidos, clasificaciones, notificaciones y dashboard
+- Documentación de APIs con Swagger
+- Despliegue orquestado con Docker Compose
 
 ---
 
