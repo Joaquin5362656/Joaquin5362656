@@ -54,19 +54,7 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 
 ## 📂 Proyectos destacados
 
-### 🔧 [Task Manager API](https://github.com/Joaquin5362656/task-manager-api)
-> API RESTful para gestión de tareas (To-Do list) con autenticación JWT.
-
-**Stack:** Python · Flask · MongoDB Atlas · JWT
-
-- Registro y login de usuarios con autenticación segura via JWT
-- CRUD completo de tareas por usuario autenticado
-- Arquitectura REST con endpoints bien documentados
-- Variables de entorno con `python-dotenv`
-
----
-
-### ⚙️ [SportPulseMS](https://github.com/MerelesLautaro/Equipo07-SportPulseMS)
+### ⚙️ [SportPulseMS](https://github.com/Joaquin5362656/Equipo07-SportPulseMS)
 > Sistema backend basado en microservicios para la gestión de ligas, equipos, partidos y estadísticas deportivas, con un gateway centralizado y agregación de datos en tiempo real.
 
 **Stack:** Java · Spring Boot · Docker · JWT · PostgreSQL · Swagger
@@ -76,6 +64,18 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 - Microservicios independientes: ligas, equipos, partidos, clasificaciones, notificaciones y dashboard
 - Documentación de APIs con Swagger
 - Despliegue orquestado con Docker Compose
+
+---
+
+### 🔧 [Task Manager API](https://github.com/Joaquin5362656/task-manager-api)
+> API RESTful para gestión de tareas (To-Do list) con autenticación JWT.
+
+**Stack:** Python · Flask · MongoDB Atlas · JWT
+
+- Registro y login de usuarios con autenticación segura via JWT
+- CRUD completo de tareas por usuario autenticado
+- Arquitectura REST con endpoints bien documentados
+- Variables de entorno con `python-dotenv`
 
 ---
 
