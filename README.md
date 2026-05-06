@@ -48,7 +48,7 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ### Conceptos
 ![Design Patterns](https://img.shields.io/badge/Patrones%20de%20Dise%C3%B1o-8A2BE2?style=for-the-badge&logo=bufio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservicios-aprendiendo-gray?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservicios-gray?style=for-the-badge)
 
 ---
 
