@@ -30,14 +30,18 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Base de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testing & Calidad
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### DevOps & Herramientas
@@ -112,11 +116,11 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquin5362656&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Joaquin5362656&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquin5362656&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaquin5362656&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Joaquin5362656&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://github-streak-stats.herokuapp.com?user=Joaquin5362656&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
