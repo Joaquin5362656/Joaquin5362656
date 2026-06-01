@@ -7,7 +7,7 @@
 *Estudiante de Ingeniería Informática en la UBA, apasionado por construir APIs robustas y sistemas bien diseñados.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquin%20Osorio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinosorio536/)
-[![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osoriojoaquin785@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](osoriojoaquin785@gmail.com)
 
 </div>
 
