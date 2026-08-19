@@ -71,6 +71,19 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 
 ---
 
+### 🧭 [Sistema de Gestión de Marketing y Leads](https://github.com/Joaquin5362656/2026-1c-tpg-squad-6)
+> Backend del módulo de **Marketing y Leads** para PSA, desarrollado con **Spring Boot**. El sistema permite gestionar campañas, registrar leads, consultar su estado y calcular indicadores como ROI a partir de datos comerciales.
+
+**Stack:** Java 21 · Spring Boot 3 · Spring Data JPA · PostgreSQL 16 · Docker 
+
+- Registrar campañas de marketing.
+- Asociar leads a campañas.
+- Consultar y actualizar estados de leads/campañas.
+- Calcular métricas por campaña (incluyendo ROI).
+- Exponer API REST documentada con OpenAPI/Swagger.
+
+---
+
 ### 🔧 [Task Manager API](https://github.com/Joaquin5362656/task-manager-api)
 > API RESTful para gestión de tareas (To-Do list) con autenticación JWT.
 
