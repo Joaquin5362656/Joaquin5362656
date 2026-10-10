@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hola, soy Joaquin Emmanuel Osorio Haro
+# 👋 Hola, soy Joaquin Osorio
 
-### Backend Developer Jr. · Java & Spring Boot · Argentina 🇦🇷
+### Backend Developer Jr. · Java & Spring Boot
 
-*Estudiante de Ingeniería Informática en la UBA, apasionado por construir APIs robustas y sistemas bien diseñados.*
+*Estudiante de Ingeniería Informática en la UBA*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquin%20Osorio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinosorio536/)
 [![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osoriojoaquin785@gmail.com)
@@ -15,13 +15,9 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería Informática en la UBA** (2° año), orientado al desarrollo **backend**. Me atrae especialmente la creación de **APIs REST**, los **microservicios** y la **arquitectura de software**: cómo diseñar sistemas que escalen, sean mantenibles y estén bien testeados.
+Parto de entender el problema real (análisis de requisitos funcionales, historias de usuario y escenarios BDD) para construir soluciones que se ajusten a él, con arquitectura en capas, tests y despliegue reproducible.
 
-Vengo de una experiencia laboral en logística, lo que me dio una perspectiva práctica sobre procesos, organización y trabajo en equipo — habilidades que hoy aplico también al desarrollo.
-
-Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde pueda seguir creciendo y aportar desde el día uno.
-
-> *"El buen código no es solo el que funciona, sino el que otro puede leer y entender."*
+Busco mi **primer trabajo como desarrollador backend Java** (híbrido o presencial en CABA/GBA).
 
 ---
 
@@ -32,12 +28,10 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Base de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testing & Calidad
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
@@ -81,18 +75,6 @@ Estoy buscando mi **primer trabajo full-time como desarrollador backend** donde 
 - Consultar y actualizar estados de leads/campañas.
 - Calcular métricas por campaña (incluyendo ROI).
 - Exponer API REST documentada con OpenAPI/Swagger.
-
----
-
-### 🔧 [Task Manager API](https://github.com/Joaquin5362656/task-manager-api)
-> API RESTful para gestión de tareas (To-Do list) con autenticación JWT.
-
-**Stack:** Python · Flask · MongoDB Atlas · JWT
-
-- Registro y login de usuarios con autenticación segura via JWT
-- CRUD completo de tareas por usuario autenticado
-- Arquitectura REST con endpoints bien documentados
-- Variables de entorno con `python-dotenv`
 
 ---
 
