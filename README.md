@@ -15,9 +15,9 @@
 
 ## 🚀 Sobre mí
 
-Parto de entender el problema real (análisis de requisitos funcionales, historias de usuario y escenarios BDD) para construir soluciones que se ajusten a él, con arquitectura en capas, tests y despliegue reproducible.
+Me gusta entender bien el problema antes de escribir código: relevo los requisitos funcionales, los traduzco en historias de usuario y escenarios BDD, y recién ahí diseño la solución. Me importa que lo que entrego sea claro, testeado y fácil de levantar para el que venga después.
 
-Busco mi **primer trabajo como desarrollador backend Java** (híbrido o presencial en CABA/GBA).
+Busco mi **primer trabajo como desarrollador backend Java** (híbrido o presencial en CABA/GBA), en un equipo donde pueda aprender de gente con más experiencia y aportar con criterio.
 
 ---
 
